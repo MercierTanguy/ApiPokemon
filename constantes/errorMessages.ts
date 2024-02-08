@@ -1,0 +1,1 @@
+export const POKEMON_API_ERROR_MESSAGE = "Erreur lors de la récupération des données du pokémon";
